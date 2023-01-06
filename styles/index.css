@@ -1,0 +1,125 @@
+/* universal tag style */
+
+*{
+    margin: 0;
+}
+
+/* header banner style */
+
+.header-banner{
+    background-image: url(../banner/banner2.png);
+    width: 1600px;
+    height: 800px;
+    top: 0;
+    background-repeat: no-repeat;
+}
+
+.header-info{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 216px;
+    padding-left: 845px;
+}
+
+.header-title{
+    font-family: 'Work Sans';
+    font-style: normal;
+    color: #151414;
+    text-align: right;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+}
+
+.header-descripton{
+    font-family: 'Work Sans';
+    font-style: normal;
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+}
+
+.section1-btn{
+    display: flex;
+    justify-content: right;
+    margin-top: 20px;
+}
+
+.header-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    background: #F15B22;
+    border-radius: 5px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: right;
+    color: #FFFFFF;
+}
+
+/* main section */
+
+.section-1{
+    padding: 130px 300px 100px 210px;
+    margin-top: 50px;
+    width: 1072px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
+.section1-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section1-text-div{
+    margin-left: 70px;
+}
+
+.section-text-list{
+    margin-left: 5px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-right: 205px;
+    color: #444343;
+}
+
+.section-info{
+    display: flex;
+}
+
+.section-img{
+    background: url(ff.png);
+    width: 451px;
+    height: 898px;
+}
+
+.section-title{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.section-description{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
