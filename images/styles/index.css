@@ -70,7 +70,7 @@
 
 .section-1{
     padding: 130px 300px 100px 210px;
-    margin-top: 50px;
+    margin-top: 0;
     width: 1072px;
     height: 723.3px;
     left: 206px;
@@ -123,3 +123,111 @@
     font-size: 16px;
     line-height: 26px;
 }
+
+/* my plyne section style */
+
+.section-2{
+    padding: 130px 230px 100px 230px;
+    width: 1141px;
+    height: 300px;
+    left: 300px;
+}
+
+.my-plans{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 50px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+
+.section-container{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.section2-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+}
+
+.section2-descrption{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
+
+/* section3-banner style */
+
+.section3-banner{
+    background-image: url(../watch.png);
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    margin-left: 230px;
+}
+
+/* footer style */
+
+.footer-container{
+    width: 1600px;
+    height: 577px;
+    margin-top: 130px;
+    left: 0px;
+    background: #151414;
+}
+
+.footer-info{
+    padding-top: 150px;
+    padding-left: 200px;
+}
+
+.footer-title{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+}
+
+.footer-descrption{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding-top: 10px;
+}
+
+.footer-a{
+    padding-top: 20px;
+}
+
+.footer1-a{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.footer2-a{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding-top: 30px;
+}
+
+.footer-icon{
+    display: flex;
+    grid-gap: 22px;
+    padding-top: 25px;
+}
+
+/* another sector */
